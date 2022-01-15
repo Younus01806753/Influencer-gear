@@ -73,6 +73,17 @@ a{
     
     width: 100%;
 }
+button{
+    margin-left: 1500px;
+    border: none;
+    text-decoration: none;
+    color:#FF6363;
+   
+   
+}
+
+/* footersection */
+
 footer{
     display: flex;
     justify-content: center;

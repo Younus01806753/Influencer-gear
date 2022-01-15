@@ -6,6 +6,7 @@ body{
 }
 
 
+
 .flexible-container{
     display: flex;
     margin-bottom: 120px;
@@ -82,6 +83,9 @@ footer{
     background-color: rgb(23, 23, 88);
     color: #fff;
 }
+
+/* footersection */
+
 .footer-icon{
     display: flex;
     justify-content: center;
